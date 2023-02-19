@@ -1,7 +1,7 @@
 # Introdução
 O Git é um sistema de controle de versão de arquivos de código aberto, usado para gerenciar projetos de software e colaboração em equipe. Ele foi criado por Linus Torvalds em 2005 e é amplamente utilizado por equipes de desenvolvimento em todo o mundo. O Git permite que os desenvolvedores rastreiem as alterações em seus arquivos de código-fonte, trabalhem em equipe em um mesmo projeto e revertam facilmente para versões anteriores do código. Neste manual, você aprenderá os comandos Git mais comuns e como usá-los.
 # Instalação do Git
-Antes de começar a usar o Git, você precisa instalá-lo em seu computador. O Git pode ser instalado em sistemas operacionais Windows, Mac e Linux. Você pode baixar a última versão do Git em https://git-scm.com/downloads. Depois de baixar o instalador, basta seguir as instruções na tela para instalá-lo em seu computador.
+Antes de começar a usar o Git, você precisa instalá-lo em seu computador. O Git pode ser instalado em sistemas operacionais Windows, Mac e Linux. Você pode baixar a última versão do Git [Clicando aqui](https://git-scm.com/downloads). Depois de baixar o instalador, basta seguir as instruções na tela para instalá-lo em seu computador.
 # Configuração do Git
 Antes de começar a usar o Git, você precisa configurá-lo com seu nome de usuário e endereço de e-mail. Essas informações serão usadas para registrar as alterações que você fizer em seus arquivos.
 
