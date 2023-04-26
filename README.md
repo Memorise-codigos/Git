@@ -1,4 +1,4 @@
-[⬅Volta](https://memorise-codigos.github.io/Morise-codigo/)
+[⬅Volta](https://memorise-codigos.github.io/)
 # Introdução
 O Git é um sistema de controle de versão de arquivos de código aberto, usado para gerenciar projetos de software e colaboração em equipe. Ele foi criado por Linus Torvalds em 2005 e é amplamente utilizado por equipes de desenvolvimento em todo o mundo. O Git permite que os desenvolvedores rastreiem as alterações em seus arquivos de código-fonte, trabalhem em equipe em um mesmo projeto e revertam facilmente para versões anteriores do código. Neste manual, você aprenderá os comandos Git mais comuns e como usá-los.
 # Instalação do Git
