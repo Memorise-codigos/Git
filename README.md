@@ -75,3 +75,6 @@ Se você deseja desfazer um commit, use o comando git revert seguido do hash do 
 Isso criará um novo commit que desfaz as alterações do commit anterior
 # Conclusão
 O Git é uma ferramenta poderosa e essencial para qualquer desenvolvedor de software. Com os comandos descritos neste manual, você deve ter uma boa compreensão do básico do Git. No entanto, há muito mais a ser explorado e aprendido, então não deixe de ler a documentação oficial do Git e experimentar os comandos por conta própria. Com prática e experiência, você se tornará um usuário avançado do Git em pouco tempo.
+
+
+             By Memorise o código
